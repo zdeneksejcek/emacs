@@ -1,4 +1,9 @@
-# this is a Clojure-friendly emacs config
+# This is a my emacs configuration
+
+what is this useful for?
+  * clojure
+  * erlang
+  * elixir
 
 If you're new to emacs, check out
 [this introductory tutorial](http://www.braveclojure.com/basic-emacs/)!
@@ -26,3 +31,4 @@ Emacs has decent support for CSS, HTML, JS, and many other file types out of the
 * Adds support for YAML and SCSS using the yaml-mode and scss-mode packages
 
 In general, if you want to add support for a language then you should be able to find good instructions for it through Google. Most of the time, you'll just need to install the "x-lang-mode" package for it.
+
