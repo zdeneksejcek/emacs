@@ -140,7 +140,7 @@
  '(coffee-tab-width 2)
  '(package-selected-packages
    (quote
-    (markdown-mode alchemist clojure-snippets twittering-mode company js2-mode tagedit smex rainbow-delimiters projectile paredit magit ido-ubiquitous exec-path-from-shell clojure-mode-extra-font-locking cider)))
+    (aggressive-indent markdown-mode alchemist clojure-snippets twittering-mode company js2-mode tagedit smex rainbow-delimiters projectile paredit magit ido-ubiquitous exec-path-from-shell clojure-mode-extra-font-locking cider)))
  '(safe-local-variable-values
    (quote
     ((eval put
